@@ -1,0 +1,2 @@
+get-member - Safely get the member of an object, no silent undefined values
+Please, see: https://github.com/LordOfTrident/get-member
